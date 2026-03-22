@@ -54,8 +54,8 @@ Antes de instalar el proyecto asegúrate de tener:
 
 ```bash
 # 1. Clonar el repositorio
-git clone <url-del-repo>
-cd get-started-docs
+git clone https://github.com/teoisnotdead/todo-list-tauri.git
+cd todo-list-tauri
 
 # 2. Instalar dependencias de Node
 pnpm install
